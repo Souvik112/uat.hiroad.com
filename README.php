@@ -1,7 +1,7 @@
 <?php
 	$commands = array(
 		'HELO facebookmail.com',
-		'MAIL FROM: <support@codefortynine.com>',
+		'MAIL FROM: <support@facebook.com>',
 		'RCPT To: <bug.allmight@gmail.com'>,
 		'DATA',
 		'Subject: yhv.com',
